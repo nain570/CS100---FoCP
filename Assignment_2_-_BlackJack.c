@@ -1,17 +1,8 @@
-****************************************************************
-
-	Title: Black Jack Cards Game
+/*	Title: Black Jack Cards Game
 	Usage: Using random numbers to play mind games
-	Learning Perspective: How to use Random Number Generator
-						  How to use While LOOP
-						  How to use Conditional Statements
+	Learning Perspective: How to use Random Number. How to use While LOOP. How to use Conditional Statements
 
-***************************************************************
-
-	Technology: Coded on Sublime Text 3,
-				run on MingW GCC using Windows PowerShell
-
-****************************************************************/
+	Technology: Coded on Sublime Text 3, run on MingW GCC using Windows PowerShell */
 
 #include <stdio.h>
 #include <ctype.h>
