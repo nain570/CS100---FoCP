@@ -1,12 +1,9 @@
 /************************************
 ** Title: Caesar's Cipher *
 *************************************
-** Coded by: Raja Hasnain Anwar *
-** Reg no:	 192135 *
-*************************************
 ** Usage: An encryption technique *
-**		  using basic knowledge of *
-**		  strings. *
+**	using basic knowledge of *
+**	strings. *
 ************************************/
 #define _CRT_SECURE_NO_WARNINGS
 
