@@ -3,12 +3,6 @@
 ** comical story by filling in the words provided**
 ** by the user.                                  **
 ***************************************************
-**      Author: Raja Hasnain Anwar               **
-***************************************************
-**      Reg. No.: 192135                         **
-***************************************************
-**      Section: BSCS-6B                         **
-***************************************************
 **   Purpose: To make programming a fun filled   **
 **       activity by making funny games!         **
 ***************************************************
