@@ -1,16 +1,16 @@
 /********************************************
-** 			Project: PPM Editor *
+** 	Project: PPM Editor *
 *********************************************
-** Platform used: Sublime Text 3 *
-**				  MingW GCC on PowerShell *
+** 	Platform used: Sublime Text 3 *
+**	  MingW GCC on PowerShell *
 *********************************************
-** Purpose: A hands-on approach to file *
-**			handling in C. Using that, *
-**			editing images of .ppm type. *
+** 	Purpose: A hands-on approach to file *
+**		handling in C. Using that, *
+**		editing images of .ppm type. *
 *********************************************
-** Usage: Asks user to enter the in and out *
-**		  file names and select an option *
-**		  from menu to edit the images. *
+** 	Usage: Asks user to enter the in and out *
+**	  file names and select an option *
+**	  from menu to edit the images. *
 ********************************************/
 
 	/*>>>>> HEADER FILES <<<<<*/
