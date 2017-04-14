@@ -2,13 +2,13 @@
 ** Title: Solitaire *
 ***************************************
 ** Purpose: Learn basics of arrays *
-**			and data encryption *
+**	and data encryption *
 ***************************************
 ** Built on: Sublime Text 3 *
-**			 Code::Blocks *
+**	Code::Blocks *
 ***************************************
 ** Tested on: GCC MingW using Windows *
-**			  Powershell *
+**	Powershell *
 **************************************/
 
 #include <stdio.h>
